@@ -12,5 +12,5 @@ jobs:
         uses: ./.github/actions/hello-world
           with:
             first-greeting: "Learning Lab User"
-            second-greeting: "Nosferato"
-            third-greeting: "Irgendein Typ"
+              #second-greeting: "Nosferato"
+              #third-greeting: "Irgendein Typ"
